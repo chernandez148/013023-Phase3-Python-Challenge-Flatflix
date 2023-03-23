@@ -7,7 +7,7 @@ from classes.viewer import Viewer
 
 if __name__ == '__main__':
 #  WRITE YOUR TEST CODE HERE ###
-
+r1 = Review("chris", "how high", "5")
 
 
 
